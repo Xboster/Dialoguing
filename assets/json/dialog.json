@@ -11,8 +11,19 @@
             "newSpeaker": "true"
         },
         {
+            "speaker": "minerva",
+            "dialog": "I am minerva, goddess of poetry, medicine, commerce, weaving, the crafts, and wisdom",
+            "newSpeaker": "true"
+        },
+        {
+            "speaker": "naruto",
+            "dialog": "Naruto again!",
+            "newSpeaker": "true"
+        },
+        {
             "speaker": "homer",
-            "dialog": "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+            "dialog": "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+            "newSpeaker": "true"
         },
         {
             "speaker": "homer",
